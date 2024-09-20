@@ -10,7 +10,7 @@ Data collection for the project will be from various sports websites but mainly 
 
 ## Computer Vision (CV)
 
-For the computer vision aspect of this project I will be doing an overlay during games to display the players name, age, (potentially a picture of them if possible) accompanied by all their stats. This can be achieved using bounding boxes and jersey numbers to link the player to the team sheet. 
+For the computer vision aspect of this project I will be doing an overlay during games to display the players name, age, (potentially a picture of them if possible) accompanied by all their stats. This can be achieved using bounding boxes and jersey numbers to link the player to the team sheet. I can also look at the colours of the jerseys to determine the team and maybe look at the overall dominance (floor spacing, etc.). 
 
 ## Natural Language Processing (NLP)
 
