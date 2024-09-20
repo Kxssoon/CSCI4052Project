@@ -6,7 +6,7 @@ Sports are a vast source of complex data and statistics and something I find mys
 
 ## Data Collection and Models
 
-Data collection for the project will be from various sports websites but mainly that of NBA.com (the official league website) for the official stats of the players and teams. I will be using a classifier approach for the machine learning model. 
+Data collection for the project will be from various sports websites but mainly that of NBA.com (the official league website) for the official stats of the players and teams. I will be using a classifier approach for the machine learning model. My aim is to use a random forest classification model there are a multitude of reasons however one that caught my eye was that it features feature ranking as well as it utilizes a bunch of decisions trees to try and cover every case.
 
 ## Computer Vision (CV)
 
