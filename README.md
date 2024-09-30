@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-Sports are a vast source of complex data and statistics and something I find myself watching quite often, which led to the passion behind this project. Due to the high scoring and unpredictability of the NBA, I have devised an idea to analyze this further to gain a better and deeper understanding of not only the sport but the statistics that make it. 
+Sports are a vast source of complex data and statistics and something I find myself watching quite often, which led to the passion behind this project. Due to the high scoring and unpredictability of the NBA, I have devised an idea to analyze this further to gain a better and deeper understanding of not only the sport but the statistics that make it. This model will be able to predict winning teams of an NBA match given the players stat averages pitted up against one another position wise.
 
 ## Data Collection and Models
 
