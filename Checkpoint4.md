@@ -18,3 +18,10 @@ So when you look at the average NBA team, it's not that you're going to have a l
 #### Takeaways
 
 As you can see here there is still quite some work to do, however in fairness it did bring up a valid point that I more often that not overlook. That is, the NBA is not the only professional league and so the answer to this question isn't as straightforward as one may think. However, I plan on aiming to add a filter or a keyword for NBA in an attempt to keep things on track and relevant.
+
+### Reinforcement Learning
+
+- Environment could be the game itself (things like the player position, ball posession, score and the time remaining)
+- Then actions like passing, shooting and blocking just to name a few can be included
+- The reward would be given based upon the correct prediction
+- The agent would take the game as an input and output a probability distribution of the possible actions.
