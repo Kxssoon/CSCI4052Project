@@ -15,7 +15,7 @@ Data collection for the project will be from various sports websites but mainly 
 
 I tried to implement the calculation of court dominance. This is done by identifying specific jersey colors while also tracking the position of the ball so we can estimate the direction of play and account for that in the calculation of court dominance. This was a bit difficult to implement due to the dynamic nature of the game.
 
-## Methodology
+### Methodology
 
 For this project I am using a combination of YOLO and color detection on the image. I am using color detection to try and detect the jerseys of each of the players on the court. Using the detected colors we can split the players into teams. Using the cooridantes of the detected colors I am able to calculate the positions of the dominance of the court.
 
@@ -23,12 +23,12 @@ For this I have defined a metric of court dominance, which is a way to quantify 
 
 The X-coordinates of the players and the ball are averaged to determine said overall court dominance score. The range of values for this are between -1 and 1 inclusively, with -1 indicating high left side dominance, and +1 indicating high right side dominance. Consequently, 0 would indicate neutral or no dominance.
 
-# Results
+### Results
 
-### Original Image
+#### Original Image
 ![](/data/image.png)
 
-### Processed Image
+#### Processed Image
 ![](cv.png)
 `Court Dominance: -0.10`
 
